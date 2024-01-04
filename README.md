@@ -34,6 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdyawedee&" alt="nerdyawedee" /></p>
 
-<div>
-[![An image of @nerdyawedee's Holopin badges, which is a link to view their full Holopin profile]](https://holopin.io/@nerdyawedee)
-</div>
+
+
+
