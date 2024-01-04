@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nerdyawedee&show_icons=true&locale=en" alt="nerdyawedee" /></p>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdyawedee&" alt="nerdyawedee" /></p>
+
+
