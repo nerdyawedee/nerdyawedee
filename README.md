@@ -33,3 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nerdyawedee&show_icons=true&locale=en" alt="nerdyawedee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdyawedee&" alt="nerdyawedee" /></p>
+
+<div>
+[![An image of @nerdyawedee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nerdyawedee)](https://holopin.io/@nerdyawedee)
+
+</div>
