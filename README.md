@@ -1,3 +1,4 @@
+![logo](https://github.com/nerdyawedee/nerdyawedee/blob/main/i2.jpg)
 <h1 align="center">Hi 👋, I'm Debasmita Patnaik</h1>
 <h3 align="center">A passionate emerging MERN developer from India</h3>
 
